@@ -46,8 +46,10 @@ This application uses the Faster R-CNN model to detect objects in uploaded image
 
 ## Screenshots
 
-![Home Page](screenshots/home_page.png)
-![Predictions](screenshots/predictions.png)
+![Home Page](![image](https://github.com/Saurabhraj2002/Object-Detection-Streamlit/assets/137194324/68047501-1d7b-49bd-b9b3-3f7fbb406bfa)
+)
+![Predictions](![image](https://github.com/Saurabhraj2002/Object-Detection-Streamlit/assets/137194324/6d7b2500-5136-4743-9203-19253ac0e01a)
+)
 
 ## Technologies Used
 
@@ -65,8 +67,11 @@ Custom CSS is used to enhance the appearance of the app, including different fon
 
 ## Contact
 
-Created by [Your Name](https://www.linkedin.com/in/yourprofile/). Feel free to contact me!
+Created by [Saurabh Raj](https://www.linkedin.com/in/saurabh-raj-7b1894268/). Feel free to contact me!
 
 ## License
 
 This project is licensed under the MIT License.
+
+
+
