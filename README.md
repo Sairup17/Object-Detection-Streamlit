@@ -13,7 +13,7 @@ This application uses the Faster R-CNN model to detect objects in uploaded image
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/object-detector-app.git
+    git clone https://github.com/Saurabhraj2002/object-detector-app.git
     cd object-detector-app
     ```
 
