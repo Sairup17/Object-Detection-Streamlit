@@ -95,6 +95,6 @@ elif selected == "Information":
 st.sidebar.title("Contact")
 st.sidebar.info(
     """
-    Created by [Saurabh Raj](https://www.linkedin.com/in/saurabh-raj-7b1894268/)
+    Created by (sairup)
     """
 )
